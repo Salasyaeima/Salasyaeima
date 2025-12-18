@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me Instagram, just search yaeima.s :)
 - 😄 Pronouns: Yayas
-- ⚡ Fun fact: I'm a sigma
+
 
 <!---
 Salasyaeima/Salasyaeima is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
